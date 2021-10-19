@@ -2,6 +2,4 @@
 
 ## My (possibly failed) Attempt
 
-- [GH Pages Site]()
-
-
+- [GH Pages Site](https://ishasimran.github.io/daily-oct-19/dynamic-animals/index.html)
